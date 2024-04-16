@@ -97,11 +97,3 @@ By monitoring the performance metrics, users can track the model's reliability a
 
 
 
-# License
-
-[MIT](https://github.com/ashrafalaghbari/RetailSensei/blob/main/LICENSE)
-
-
-# Contact
-
-If you have any questions or encounter any issues running this project, please feel free to [open an issue](https://github.com/ashrafalaghbari/RetailSensei/issues). I'll be happy to help!
