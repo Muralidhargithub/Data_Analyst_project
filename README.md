@@ -59,25 +59,12 @@ env\Scripts\activate.bat
 ```
 
 ```bash
-git clone https://github.com/ashrafalaghbari/RetailSensei.git
+git clone [https://github.com/pythongethub/Data_Analyst_project.git]
 cd <project-directory>
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
-
-
-<!-- If you prefer to use a Docker image, you can follow these additional steps:
-
-Pull the Docker image from Docker Hub:
-```bash
-docker pull salesapp:0.1
-```
-Run the Docker container:
-```bash
-docker run -p 8501:8501 salesapp:0.1
-```
-Access the web application using the same URL as mentioned above. -->
 
 # Usage
 
