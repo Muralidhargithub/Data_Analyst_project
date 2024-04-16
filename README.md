@@ -44,7 +44,7 @@ The choice of the Holt-Winters model, along with the consideration of confidence
 | SARIMA| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashrafalaghbari/RetailSensei/blob/main/notebooks/sarimax.ipynb) |
 
 # Worflow
-![sales](https://github.com/ashrafalaghbari/RetailSensei/assets/98224412/6d7b8e80-16a4-43af-a41d-31ebbdb8b5b8)
+![sales](https://github.com/pythongethub/Data_Analyst_project.git)
 
 
 # Installation
@@ -65,11 +65,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Access the web application by opening the following URL in your web browser:
 
-```bash
-http://localhost:8501
-```
 
 <!-- If you prefer to use a Docker image, you can follow these additional steps:
 
